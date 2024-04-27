@@ -1,9 +1,10 @@
-# WeartherApp
+# ![image](https://github.com/navya04062003/WeartherApp/assets/154512617/05ed8985-f4ea-4e96-94d6-1beae280fbbc)
+ WeartherApp
 # Introduction to Our Weather App :
 
 Welcome to our innovative weather application!I have combined the power of HTML, CSS, and JavaScript to create a user-friendly and visually appealing platform for all your weather needs.
 
-# What Makes Our App Special?
+# What Makes Our Website Special?
 
 1. Real-Time Updates : Our app fetches real-time weather data, ensuring that you always have the most accurate information at your fingertips.
 2. Intuitive Design : We believe in simplicity and usability. Our app features a clean and intuitive interface, making it easy for users of all levels to navigate and understand.

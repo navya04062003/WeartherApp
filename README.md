@@ -1,4 +1,4 @@
-# ![image](https://github.com/navya04062003/WeartherApp/assets/154512617/05ed8985-f4ea-4e96-94d6-1beae280fbbc)
+# ![image](https://github.com/navya04062003/WeartherApp/assets/154512617/7adfdbda-c6d0-4ad8-ac09-7631bda37634)
 # WeartherApp
 # Introduction to Our Weather App :
 
@@ -12,6 +12,7 @@ Welcome to our innovative weather application!I have combined the power of HTML,
 4. User-Friendly Interface : Our clean and intuitive design makes it easy for users of all levels to navigate and find the information they need quickly.
 5. Customization Options : Personalize your weather experience by selecting your location, preferred units of measurement, and display preferences. Our website puts you in control.
 
+# ![image](https://github.com/navya04062003/WeartherApp/assets/154512617/ab80d6a6-4dfd-488b-8a8e-8ec7c1270e7e)
 # How It Works :
 
 Using HTML, we structure the content of our website, providing a solid foundation for the user interface. CSS is then applied to style the HTML elements, ensuring a visually appealing presentation. JavaScript adds interactivity and functionality, enabling features such as fetching weather data from external APIs and updating the display in real-time.

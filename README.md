@@ -1,5 +1,5 @@
 # ![image](https://github.com/navya04062003/WeartherApp/assets/154512617/05ed8985-f4ea-4e96-94d6-1beae280fbbc)
- WeartherApp
+# WeartherApp
 # Introduction to Our Weather App :
 
 Welcome to our innovative weather application!I have combined the power of HTML, CSS, and JavaScript to create a user-friendly and visually appealing platform for all your weather needs.
